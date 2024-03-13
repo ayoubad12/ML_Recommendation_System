@@ -1,0 +1,4 @@
+some important libraries to install :
+    sudo pip install streamlit
+    pip install scikit-surprise
+    pip install scikit-learn
